@@ -1,0 +1,534 @@
+[
+  {
+    "usuario": "u01",
+    "area_interesse": "Jurídico",
+    "interacoes": [
+      {
+        "texto_id": "t01",
+        "titulo": "Reforma Tributária e seus impactos na sociedade brasileira",
+        "nota": 2
+      },
+      {
+        "texto_id": "t02",
+        "titulo": "Proteção de Dados Pessoais na Administração Pública",
+        "nota": 2
+      },
+      {
+        "texto_id": "t03",
+        "titulo": "Inteligência Artificial no Poder Judiciário: avanço ou risco?",
+        "nota": 3
+      },
+      {
+        "texto_id": "t04",
+        "titulo": "Acesso à Justiça como direito fundamental no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t05",
+        "titulo": "Combate à Corrupção e Transparência Pública no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t06",
+        "titulo": "Educação Financeira nas Escolas: um investimento no futuro",
+        "nota": 1
+      },
+      {
+        "texto_id": "t11",
+        "titulo": "Inteligência Artificial e Mercado de Trabalho: oportunidades e ameaças",
+        "nota": 1
+      },
+      {
+        "texto_id": "t26",
+        "titulo": "Saúde Mental na Sociedade Moderna: o adoecimento invisível",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u02",
+    "area_interesse": "Jurídico",
+    "interacoes": [
+      {
+        "texto_id": "t03",
+        "titulo": "Inteligência Artificial no Poder Judiciário: avanço ou risco?",
+        "nota": 3
+      },
+      {
+        "texto_id": "t04",
+        "titulo": "Acesso à Justiça como direito fundamental no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t05",
+        "titulo": "Combate à Corrupção e Transparência Pública no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t01",
+        "titulo": "Reforma Tributária e seus impactos na sociedade brasileira",
+        "nota": 2
+      },
+      {
+        "texto_id": "t02",
+        "titulo": "Proteção de Dados Pessoais na Administração Pública",
+        "nota": 2
+      },
+      {
+        "texto_id": "t12",
+        "titulo": "Desinformação nas Redes Sociais: um desafio democrático",
+        "nota": 1
+      },
+      {
+        "texto_id": "t21",
+        "titulo": "Mudanças Climáticas: urgência de uma resposta global",
+        "nota": 1
+      },
+      {
+        "texto_id": "t17",
+        "titulo": "Inclusão Social através da Educação: caminhos e desafios",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u03",
+    "area_interesse": "Financeiro",
+    "interacoes": [
+      {
+        "texto_id": "t06",
+        "titulo": "Educação Financeira nas Escolas: um investimento no futuro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t07",
+        "titulo": "Pix e a Inclusão Financeira no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t08",
+        "titulo": "Endividamento das Famílias Brasileiras: causas e saídas",
+        "nota": 3
+      },
+      {
+        "texto_id": "t09",
+        "titulo": "Criptomoedas e Regulação: desafios para o sistema financeiro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t10",
+        "titulo": "Planejamento Financeiro para Jovens: construindo o futuro hoje",
+        "nota": 2
+      },
+      {
+        "texto_id": "t01",
+        "titulo": "Reforma Tributária e seus impactos na sociedade brasileira",
+        "nota": 1
+      },
+      {
+        "texto_id": "t11",
+        "titulo": "Inteligência Artificial e Mercado de Trabalho: oportunidades e ameaças",
+        "nota": 2
+      },
+      {
+        "texto_id": "t26",
+        "titulo": "Saúde Mental na Sociedade Moderna: o adoecimento invisível",
+        "nota": 2
+      }
+    ]
+  },
+  {
+    "usuario": "u04",
+    "area_interesse": "Financeiro",
+    "interacoes": [
+      {
+        "texto_id": "t08",
+        "titulo": "Endividamento das Famílias Brasileiras: causas e saídas",
+        "nota": 3
+      },
+      {
+        "texto_id": "t09",
+        "titulo": "Criptomoedas e Regulação: desafios para o sistema financeiro",
+        "nota": 2
+      },
+      {
+        "texto_id": "t10",
+        "titulo": "Planejamento Financeiro para Jovens: construindo o futuro hoje",
+        "nota": 2
+      },
+      {
+        "texto_id": "t06",
+        "titulo": "Educação Financeira nas Escolas: um investimento no futuro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t07",
+        "titulo": "Pix e a Inclusão Financeira no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t13",
+        "titulo": "Transformação Digital no Setor Público brasileiro",
+        "nota": 1
+      },
+      {
+        "texto_id": "t22",
+        "titulo": "Sustentabilidade Urbana: cidades para o presente e o futuro",
+        "nota": 2
+      },
+      {
+        "texto_id": "t16",
+        "titulo": "Diversidade Cultural Brasileira: riqueza e identidade nacional",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u05",
+    "area_interesse": "Atualidades",
+    "interacoes": [
+      {
+        "texto_id": "t11",
+        "titulo": "Inteligência Artificial e Mercado de Trabalho: oportunidades e ameaças",
+        "nota": 3
+      },
+      {
+        "texto_id": "t12",
+        "titulo": "Desinformação nas Redes Sociais: um desafio democrático",
+        "nota": 3
+      },
+      {
+        "texto_id": "t13",
+        "titulo": "Transformação Digital no Setor Público brasileiro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t14",
+        "titulo": "Cidades Inteligentes: tecnologia a serviço da qualidade de vida",
+        "nota": 2
+      },
+      {
+        "texto_id": "t15",
+        "titulo": "Impactos da Automação na estrutura do trabalho contemporâneo",
+        "nota": 3
+      },
+      {
+        "texto_id": "t03",
+        "titulo": "Inteligência Artificial no Poder Judiciário: avanço ou risco?",
+        "nota": 1
+      },
+      {
+        "texto_id": "t27",
+        "titulo": "Vacinação e Saúde Pública: lições de uma história de sucesso",
+        "nota": 2
+      }
+    ]
+  },
+  {
+    "usuario": "u06",
+    "area_interesse": "Atualidades",
+    "interacoes": [
+      {
+        "texto_id": "t13",
+        "titulo": "Transformação Digital no Setor Público brasileiro",
+        "nota": 2
+      },
+      {
+        "texto_id": "t14",
+        "titulo": "Cidades Inteligentes: tecnologia a serviço da qualidade de vida",
+        "nota": 3
+      },
+      {
+        "texto_id": "t15",
+        "titulo": "Impactos da Automação na estrutura do trabalho contemporâneo",
+        "nota": 3
+      },
+      {
+        "texto_id": "t11",
+        "titulo": "Inteligência Artificial e Mercado de Trabalho: oportunidades e ameaças",
+        "nota": 2
+      },
+      {
+        "texto_id": "t12",
+        "titulo": "Desinformação nas Redes Sociais: um desafio democrático",
+        "nota": 2
+      },
+      {
+        "texto_id": "t07",
+        "titulo": "Pix e a Inclusão Financeira no Brasil",
+        "nota": 1
+      },
+      {
+        "texto_id": "t18",
+        "titulo": "Cultura Digital e Juventude: identidade na era das redes",
+        "nota": 1
+      },
+      {
+        "texto_id": "t23",
+        "titulo": "Preservação da Amazônia: responsabilidade nacional e global",
+        "nota": 2
+      }
+    ]
+  },
+  {
+    "usuario": "u07",
+    "area_interesse": "Social/Cultura",
+    "interacoes": [
+      {
+        "texto_id": "t16",
+        "titulo": "Diversidade Cultural Brasileira: riqueza e identidade nacional",
+        "nota": 2
+      },
+      {
+        "texto_id": "t17",
+        "titulo": "Inclusão Social através da Educação: caminhos e desafios",
+        "nota": 2
+      },
+      {
+        "texto_id": "t18",
+        "titulo": "Cultura Digital e Juventude: identidade na era das redes",
+        "nota": 2
+      },
+      {
+        "texto_id": "t19",
+        "titulo": "Valorização do Patrimônio Histórico como ato de cidadania",
+        "nota": 3
+      },
+      {
+        "texto_id": "t20",
+        "titulo": "Desafios da Leitura no Brasil contemporâneo",
+        "nota": 3
+      },
+      {
+        "texto_id": "t05",
+        "titulo": "Combate à Corrupção e Transparência Pública no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t28",
+        "titulo": "Combate ao Sedentarismo: movimento como medicina",
+        "nota": 2
+      }
+    ]
+  },
+  {
+    "usuario": "u08",
+    "area_interesse": "Social/Cultura",
+    "interacoes": [
+      {
+        "texto_id": "t18",
+        "titulo": "Cultura Digital e Juventude: identidade na era das redes",
+        "nota": 2
+      },
+      {
+        "texto_id": "t19",
+        "titulo": "Valorização do Patrimônio Histórico como ato de cidadania",
+        "nota": 3
+      },
+      {
+        "texto_id": "t20",
+        "titulo": "Desafios da Leitura no Brasil contemporâneo",
+        "nota": 3
+      },
+      {
+        "texto_id": "t16",
+        "titulo": "Diversidade Cultural Brasileira: riqueza e identidade nacional",
+        "nota": 2
+      },
+      {
+        "texto_id": "t17",
+        "titulo": "Inclusão Social através da Educação: caminhos e desafios",
+        "nota": 3
+      },
+      {
+        "texto_id": "t09",
+        "titulo": "Criptomoedas e Regulação: desafios para o sistema financeiro",
+        "nota": 1
+      },
+      {
+        "texto_id": "t24",
+        "titulo": "Economia Circular: repensar produção e consumo",
+        "nota": 1
+      },
+      {
+        "texto_id": "t12",
+        "titulo": "Desinformação nas Redes Sociais: um desafio democrático",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u09",
+    "area_interesse": "Ambiental",
+    "interacoes": [
+      {
+        "texto_id": "t21",
+        "titulo": "Mudanças Climáticas: urgência de uma resposta global",
+        "nota": 2
+      },
+      {
+        "texto_id": "t22",
+        "titulo": "Sustentabilidade Urbana: cidades para o presente e o futuro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t23",
+        "titulo": "Preservação da Amazônia: responsabilidade nacional e global",
+        "nota": 3
+      },
+      {
+        "texto_id": "t24",
+        "titulo": "Economia Circular: repensar produção e consumo",
+        "nota": 3
+      },
+      {
+        "texto_id": "t25",
+        "titulo": "Gestão de Resíduos Sólidos Urbanos no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t02",
+        "titulo": "Proteção de Dados Pessoais na Administração Pública",
+        "nota": 2
+      },
+      {
+        "texto_id": "t14",
+        "titulo": "Cidades Inteligentes: tecnologia a serviço da qualidade de vida",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u10",
+    "area_interesse": "Ambiental",
+    "interacoes": [
+      {
+        "texto_id": "t23",
+        "titulo": "Preservação da Amazônia: responsabilidade nacional e global",
+        "nota": 2
+      },
+      {
+        "texto_id": "t24",
+        "titulo": "Economia Circular: repensar produção e consumo",
+        "nota": 2
+      },
+      {
+        "texto_id": "t25",
+        "titulo": "Gestão de Resíduos Sólidos Urbanos no Brasil",
+        "nota": 3
+      },
+      {
+        "texto_id": "t21",
+        "titulo": "Mudanças Climáticas: urgência de uma resposta global",
+        "nota": 3
+      },
+      {
+        "texto_id": "t22",
+        "titulo": "Sustentabilidade Urbana: cidades para o presente e o futuro",
+        "nota": 3
+      },
+      {
+        "texto_id": "t10",
+        "titulo": "Planejamento Financeiro para Jovens: construindo o futuro hoje",
+        "nota": 1
+      },
+      {
+        "texto_id": "t29",
+        "titulo": "Telemedicina no Brasil: acesso e inovação na saúde",
+        "nota": 1
+      },
+      {
+        "texto_id": "t15",
+        "titulo": "Impactos da Automação na estrutura do trabalho contemporâneo",
+        "nota": 2
+      }
+    ]
+  },
+  {
+    "usuario": "u11",
+    "area_interesse": "Saúde",
+    "interacoes": [
+      {
+        "texto_id": "t26",
+        "titulo": "Saúde Mental na Sociedade Moderna: o adoecimento invisível",
+        "nota": 2
+      },
+      {
+        "texto_id": "t27",
+        "titulo": "Vacinação e Saúde Pública: lições de uma história de sucesso",
+        "nota": 3
+      },
+      {
+        "texto_id": "t28",
+        "titulo": "Combate ao Sedentarismo: movimento como medicina",
+        "nota": 3
+      },
+      {
+        "texto_id": "t29",
+        "titulo": "Telemedicina no Brasil: acesso e inovação na saúde",
+        "nota": 3
+      },
+      {
+        "texto_id": "t30",
+        "titulo": "Alimentação Saudável e Qualidade de Vida: escolhas que transformam",
+        "nota": 2
+      },
+      {
+        "texto_id": "t04",
+        "titulo": "Acesso à Justiça como direito fundamental no Brasil",
+        "nota": 2
+      },
+      {
+        "texto_id": "t20",
+        "titulo": "Desafios da Leitura no Brasil contemporâneo",
+        "nota": 1
+      }
+    ]
+  },
+  {
+    "usuario": "u12",
+    "area_interesse": "Saúde",
+    "interacoes": [
+      {
+        "texto_id": "t28",
+        "titulo": "Combate ao Sedentarismo: movimento como medicina",
+        "nota": 2
+      },
+      {
+        "texto_id": "t29",
+        "titulo": "Telemedicina no Brasil: acesso e inovação na saúde",
+        "nota": 3
+      },
+      {
+        "texto_id": "t30",
+        "titulo": "Alimentação Saudável e Qualidade de Vida: escolhas que transformam",
+        "nota": 3
+      },
+      {
+        "texto_id": "t26",
+        "titulo": "Saúde Mental na Sociedade Moderna: o adoecimento invisível",
+        "nota": 3
+      },
+      {
+        "texto_id": "t27",
+        "titulo": "Vacinação e Saúde Pública: lições de uma história de sucesso",
+        "nota": 3
+      },
+      {
+        "texto_id": "t08",
+        "titulo": "Endividamento das Famílias Brasileiras: causas e saídas",
+        "nota": 1
+      },
+      {
+        "texto_id": "t19",
+        "titulo": "Valorização do Patrimônio Histórico como ato de cidadania",
+        "nota": 1
+      },
+      {
+        "texto_id": "t11",
+        "titulo": "Inteligência Artificial e Mercado de Trabalho: oportunidades e ameaças",
+        "nota": 2
+      }
+    ]
+  }
+]
