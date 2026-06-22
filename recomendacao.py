@@ -127,10 +127,14 @@ def recomendar(grafo_textos, usuario_id, textos, interacoes, k=5, area_interesse
 def obter_vizinhos(grafo_textos, texto_origem):
     """
     Aceita formatos comuns para facilitar a integracao com a Pessoa 1:
+    - grafo.obter_vizinhos("t01") = [["t02", 0.8], ...]
     - grafo.adjacencia["t01"] = [("t02", 0.8), ...]
     - grafo.adjacencia["t01"] = {"t02": 0.8, ...}
     - grafo["t01"] = [("t02", 0.8), ...]
     """
+    if hasattr(grafo_textos, "obter_vizinhos"):
+        return grafo_textos.obter_vizinhos(texto_origem)
+
     adjacencia = getattr(grafo_textos, "adjacencia", grafo_textos)
     vizinhos = adjacencia.get(texto_origem, [])
 

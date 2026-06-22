@@ -14,6 +14,9 @@ class GrafoFake:
             "t02": [("t03", 0.4), ("t06", 0.8)],
         }
 
+    def obter_vizinhos(self, texto_id):
+        return self.adjacencia.get(texto_id, [])
+
 
 class RecomendacaoTest(unittest.TestCase):
     def test_top_k_recomendacoes_mantem_maiores_pesos(self):

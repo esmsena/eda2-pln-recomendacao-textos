@@ -43,7 +43,15 @@ A parte de heap e recomendacao final esta em `recomendacao.py`.
 - `recomendar_cold_start(...)`: quando nao existe historico ou o grafo ainda nao foi entregue, filtra textos pela area de interesse e ranqueia pelos mais bem avaliados.
 - `recomendar(...)`: funcao principal que escolhe entre recomendacao por grafo e cold start.
 
-Enquanto o grafo projetado da Pessoa 1 nao estiver pronto, `main.py` usa `grafo_textos = None` e demonstra o cold start.
+O arquivo `main.py` ja integra os modulos das outras pessoas:
+
+1. carrega `dados/textos.json`;
+2. gera os vetores TF-IDF com `ProcessadorTexto`;
+3. constroi o grafo bipartido com `construir_grafo_bipartido`;
+4. gera o grafo projetado texto-texto com `gerar_projecao_texto_texto`;
+5. chama `recomendar(...)` para usuario existente e para cold start.
+
+Se o grafo projetado nao for informado, `recomendar(...)` ainda consegue usar o cold start por area de interesse.
 
 Para rodar os testes:
 
